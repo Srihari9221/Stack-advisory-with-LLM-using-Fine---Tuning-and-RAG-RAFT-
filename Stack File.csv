@@ -1,0 +1,229 @@
+FunctionalDomain,FunctionalArea,Tool,License,SupportedVersion,LastUpdated,TechnologyStack,Advisory
+"Solutions for Portal,e-Learning,KMS,BI,etc",Portal/CMS,Zope (5.20),Zope Public License,"4.6.2,2.13.30",19-05-2022,OWT JAVA PHP,-
+Solutions for Application Development and Deployment,Programming Language Client-side,JavaScript (ECMAScript 2021),"MIT,GNU Public License,BSD","ECMAScript 2020,ECMAScript 2017,ECMAScript 2016,ECMAScript 2015,5.1,1.8.5,ECMAScript 2019,ECMAScript 2018",07-01-2022,OWT JAVA PHP,-
+Solutions for Application Development and Deployment,Client-side Framework,Angular (14.0.5),MIT License,"8.2.1,8.2.0,8.1.3,8.1.2,8.1.1,8.1.0,8.0.3,8.0.2,8.0.1,8.0.0,14.0.4,14.0.3,14.0.2,14.0.1,13.3.11,13.3.10,13.3.9,13.3.8,13.3.7,13.3.6,13.3.5,13.3.4,13.3.3,13.3.2,13.3.1,13.3.0,13.2.7,12.2.16,10.1.4,1.8.0,14.0.0",13-07-2022,OWT,-
+Solutions for Application Development and Deployment,Client-side Framework,Ember.js (3.28.4),MIT License,"3.28.3,3.28.2,3.26.2,3.24.6,3.24.1,3.24.0,3.23.1,3.23.0,3.22.2,3.22.1,3.22.0,3.21.1,3.21.0,3.20.6,3.20.5,3.20.4,3.20.3,3.20.2,3.20.1,3.20.0,3.19.0,3.18.1,3.18.0,3.16.8,3.16.7,3.16.6,3.16.5,3.16.4,3.16.3,3.12.4,3.26.1,3.26.0,3.25.4,3.25.3,3.25.2,3.25.1,3.25.0,3.24.3,3.24.2",07-01-2022,OWT,-
+Solutions for Application Development and Deployment,Client-side Framework,jQuery (3.6.0),MIT License,3.5.1,12-10-2021,OWT JAVA PHP,-
+Solutions for Application Development and Deployment,Application Server,Node.js (21.2.0),MIT License,"20.10.0,21.1.0,18.18.2",10-05-2024,OWT,-
+Solutions for Application Development and Deployment,Client-side Framework,React.js (18.1.0),MIT License,"18.0.0,15.7.0",20-05-2022,OWT JAVA PHP,-
+Solutions for Application Development and Deployment,Server Side Framework,Ruby on Rails (6.1.3.2),MIT License,"6.1.3.1,6.0.3.7,5.2.6,5.2.4.6,5.1.7,5.0.7.2",22-05-2021,JAVA,-
+Solutions for Application Development and Deployment,Client-side Framework,Vue.js (2.6.14),MIT License,"2.6.13,2.6.12,2.6.11,2.6.9,2.6.8,2.6.7,2.6.6,2.6.5,2.6.4,2.6.3,2.6.2,2.6.1,2.6.0,2.6.0-beta.3,2.6.0-beta.2,2.6.0-beta.1,2.5.22,2.5.21,2.5.20,2.5.19,2.5.18,2.5.17,2.5.17-beta.0,2.5.16,2.5.15,2.5.14,2.5.13,2.5.12,2.5.11,2.5.10,2.5.9,2.5.8,2.5.7,2.5.6,2.5.5,2.5.4,2.5.3,2.5.2,2.5.1,2.5.0,2.4.4,2.4.3,2.4.2,2.4.1,2.4.0,2.3.4,2.3.3,2.3.2,2.3.1,2.3.0,2.3.0-beta.1,2.2.6,2.2.5,2.2.4,2.2.3,2.2.2,2.2.1,2.2.0,2.2.0-beta.2,2.2.0-beta.1,2.1.10,2.1.9,2.1.8,2.1.7,2.1.6,2.1.5,2.1.4,2.1.3,2.1.2,2.1.1,2.1.0,2.0.8,2.0.7,2.0.6,2.0.5,2.0.4,2.0.3,2.0.2,2.0.1,2.0.0,2.0.0-rc.8,2.0.0-rc.7,2.0.0-rc.6,2.0.0-rc.5,2.0.0-rc.4,2.0.0-rc.3,2.0.0-rc.2,2.0.0-rc.1,2.0.0-beta.8,2.0.0-beta.7,2.0.0-beta.6,2.0.0-beta.5,2.0.0-beta.4,2.0.0-beta.3,2.0.0-beta.2,2.0.0-beta.1,2.0.0-alpha.8,2.0.0-alpha.7,2.0.0-alpha.6,2.0.0-alpha.5,2.0.0-alpha.4,2.0.0-alpha.3,2.0.0-alpha.2,2.0.0-alpha.1,1.0.28,1.0.28-csp,1.0.27,1.0.27-csp,1.0.26,1.0.26-csp,1.0.25,1.0.25-csp,1.0.24,1.0.24-csp,1.0.23,1.0.23-csp,1.0.22,1.0.22-csp,1.0.21,1.0.21-csp,1.0.20,1.0.20-csp,1.0.19,1.0.19-csp,1.0.18,1.0.18-csp,1.0.17,1.0.17-csp,1.0.16,1.0.16-csp,1.0.15,1.0.15-csp,1.0.14,1.0.14-csp,1.0.13-csp,1.0.13,1.0.12,1.0.12-csp,1.0.11-csp,1.0.11,1.0.10-csp,1.0.10,1.0.9,1.0.8,1.0.7,1.0.6,1.0.5,1.0.4,1.0.3,1.0.2,1.0.1,1.0.0,1.0.0-migration,1.0.0-csp,1.0.0-rc.2,1.0.0-rc.2-migration,1.0.0-rc.1,1.0.0-beta.4,1.0.0-alpha.8,1.0.0-beta.3,1.0.0-alpha.7,1.0.0-beta.2,1.0.0-alpha.6,1.0.0-beta.1,1.0.0-alpha.5,1.0.0-alpha.4,1.0.0-alpha.3,1.0.0-alpha.2,1.0.0-alpha.1,0.12.16,0.12.16-csp,0.12.15,0.12.15-csp,0.12.14,0.12.14-csp,0.12.13,0.12.12,0.12.12-csp,0.12.10,0.12.10-csp,0.12.9,0.12.9-csp,0.12.8-csp,0.12.7,0.12.7-csp,0.12.6,0.12.6-csp,0.12.5,0.12.4,0.12.3,0.12.2,0.12.1-csp.2,0.12.1-csp.1,0.12.1,0.12.1-csp,0.12.0,0.12.0-csp,0.12.0-rc2,0.12.0-rc,0.12.0-beta5,0.12.0-beta4,0.12.0-beta3,0.12.0-beta2,0.11.10,0.11.9,0.11.8,0.11.7,0.11.6,2.6.10,0.12.11,0.12.11-csp,0.12.8",20-05-2022,OWT,-
+Solutions for Application Development and Deployment,Web Service Framework,CakePHP (4.4.2),MIT License,"4.3.10,3.10.4,3.8.13,3.8.0,3.7.9,3.6.15,3.5.18",12-07-2022,OWT  PHP,-
+Solutions for Application Development and Deployment,Server Side Framework,CakePHP (4.4.2),MIT License,"4.3.10,3.10.4,3.8.13,3.8.0,3.7.9,3.6.15,3.5.18",12-07-2022,OWT  PHP,-
+Solutions for Application Development and Deployment,Server Side Framework,Symfony (6.1.2),MIT License,"6.0.10,5.4.10,4.4.43,4.2.12",13-07-2022,OWT  PHP,-
+Solutions for Application Development and Deployment,Web Service Framework,Symfony (6.1.2),MIT License,"6.0.10,5.4.10,4.4.43,4.2.12",13-07-2022,OWT  PHP,-
+"Solutions for Source Code Management,Dev Ops & Documentation",Source Code Editor,Visual Studio Code (1.58.2),MIT License,"1.58.1,1.58.0,1.57.1,1.57.0,1.56.2,1.56.1,1.56.0,1.52.1,1.52.0,1.51.1,1.51.0,1.50.1,1.55.2,1.55.1,1.55.0,1.54.3,1.54.2,1.54.1,1.54.0,1.53.2,1.53.1,1.53.0,1.39.1",30-12-2021,OWT JAVA PHP,-
+Solutions for Infrastructure,Configuration Management for Distributed Systems,Ansible (2.12.1),GPLv3,"2.11.5,2.11.4,2.9.27,2.8.20,2.12.0,2.11.7,2.11.6,2.10.16,2.6.20",10-03-2022,OWT JAVA PHP,-
+"Solutions for Portal,e-Learning,KMS,BI,etc",Portal/CMS,Joomla (5.1.1),GPL,"5.1.0,4.4.5,4.4.4,4.4.3,4.4.2,4.4.1",06-06-2024,PHP,-
+"Solutions for Portal,e-Learning,KMS,BI,etc",Portal/CMS,Liferay Community Edition (7.4.1),GNU Lesser General Public License,"7.4.0,7.3.6,7.3.5,7.3.4,7.3.3,7.3.2,7.3.1,7.3.0,7.2.1,7.2.0,7.1.3,7.1.2,7.1.1,7.1.0",02-08-2021,JAVA,-
+Solutions for GIS,GIS Desktop,Quantum GIS (3.16),GNU GPLv2,"3.4.2,3.4.4,3.10",04-01-2021,OWT JAVA PHP,-
+"Solutions for Portal,e-Learning,KMS,BI,etc",Portal/CMS,Wordpress (59),GNU GPLv2,"6.5.3,6.5.2",06-06-2024,PHP,-
+"Solutions for Portal,e-Learning,KMS,BI,etc",Portal/CMS,Drupal (10.2.7),"GNU General Public License, version 2 or later","7.101,7.100,7.99,10.2.6,10.2.2,10.2.5,10.1.8,7.98,7.97,7.96,10.2.4,10.2.3",06-06-2024,OWT  PHP,-
+Solutions for Data Management,Non-Relational Database (Big Data),Apache CouchDB (3.1.1),Apache License 2.0,"3.1.0,2.3.1,2.3.0",30-12-2021,OWT,-
+Solutions for Application Development and Deployment,Server Side Framework,Apache Struts (2_1_2),Apache License,"2.5.29,2.5.28,2.5.27,2.5.26,2.5.25,2.5.24,2.5.23,2.5.20,2.5.19,2.5.18,2.5.17,2.5.22",19-05-2022,JAVA,-
+Solutions for Application Development and Deployment,Server Side Framework,Spring (5.3.8),Apache 2.0 License,"5.3.7,5.3.6,5.3.5,5.3.4,5.3.3,5.3.2,5.3.1,5.3.0,5.1.17,5.1.16,5.1.15,4.3.28,4.3.27,4.3.26,4.3.25,4.3.24,5.2.8,5.2.7,5.2.6,5.2.5,5.2.4,5.2.3",24-06-2021,JAVA,-
+Solutions for Application Development and Deployment,Server Side Framework,Spring Boot (2.6.4),Apache 2.0 License,"2.6.3,2.6.2,2.6.1,2.6.0,2.5.9,2.5.8,2.5.7,2.5.6,2.5.5,2.5.4,2.5.2,2.5.1,2.5.0,2.4.8,2.4.7,2.4.6,2.4.5,2.4.4,2.4.3,2.4.2,2.4.1,2.4.0,2.3.10,2.3.9,2.3.8,2.3.7,2.3.6,2.3.5,2.3.4,2.2.5,2.2.4,2.1.16,2.1.15,2.1.14,2.1.13,2.0.9,1.5.22,2.3.3,2.3.2,2.3.1,2.3.0,2.2.9,2.2.8,2.2.7,2.2.6",10-03-2022,JAVA,-
+Solutions for Application Development and Deployment,Server Side Framework,.NET Core,-,-,-,-,-
+"Solutions for Mobile Application Development,Data Management,GIS,DevOps",Mobile Native (iOS),Alamofire,-,-,-,-,-
+"Solutions for Mobile Application Development,Data Management,GIS,DevOps",Mobile Native (iOS),AlamofireImage,-,-,-,-,-
+"Solutions for Mobile Application Development,Data Management,GIS,DevOps",Mobile Native (Android),Android Studio (4.2.1),-,"4.2.0,4.1.3,4.1.2,4.1.1,4.1,4.0.2,4.0.1,4.0,3.6.3",29-05-2021,OWT JAVA PHP,-
+"Solutions for Portal,e-Learning,KMS,BI,etc",Messaging,Apache ActiveMQ,-,-,-,-,-
+Solutions for Data Management,Non-Relational Database (Big Data),Apache Cassandra,-,-,-,-,-
+Solutions for Application Development and Deployment,Web Service Framework,Apache CXF with Apache Tomcat (4.0.4),-,"3.5.5,3.6.3,3.5.8",25-03-2024,OWT JAVA,-
+Solutions for Data Management,Non-Relational Database (Big Data),Apache Drill,-,-,-,-,-
+Solutions for Data Analytics,Analytics and Search Engine,Apache Flink,-,-,-,-,-
+Solutions for Data Management,Non-Relational Database (Big Data),Apache Hbase,-,-,-,-,-
+Solutions for Data Management,Non-Relational Database (Big Data),Apache Hive,-,-,-,-,-
+Solutions for Application Testing,Testing,Apache Jmeter (5.4.3),-,-,19-05-2022,OWT JAVA PHP,-
+"Solutions for Portal,e-Learning,KMS,BI,etc",Messaging,Apache Kafka,-,-,-,-,-
+Solutions for Data Analytics,Analytics and Search Engine,Apache Lucene,-,-,-,-,-
+"Solutions for Source Code Management,Dev Ops & Documentation",Build Tool,Apache Maven,-,-,-,-,-
+Solutions for Data Analytics,Analytics and Search Engine,Apache Nutch,-,-,-,-,-
+Solutions for Infrastructure,Video Conference,Apache OpenMeetings,-,-,-,-,-
+Solutions for Data Analytics,Analytics and Search Engine,Apache Solr,-,-,-,-,-
+Solutions for Data Analytics,Analytics and Search Engine,Apache Spark,-,-,-,-,-
+"Solutions for Source Code Management,Dev Ops & Documentation",Source Code Control,Apache Subversion,-,-,-,-,-
+Solutions for Application Development and Deployment,Server Side Framework,Apache Wicket Framework,-,-,-,-,-
+Solutions for Data Analytics,Analytics and Search Engine,Apache Zeppelin (0.11.1),-,-,15-04-2024,OWT JAVA PHP,-
+Solutions for Infrastructure,Configuration Management for Distributed Systems,Apache ZooKeeper,-,-,-,-,-
+"Solutions for Mobile Application Development,Data Management,GIS,DevOps",Cross-platform,Apache-Cordova (11.0.0),-,"9.0.0,10.0.0,8.1.2,6.5.0",19-05-2022,OWT,-
+"Solutions for Mobile Application Development,Data Management,GIS,DevOps",Cross-platform,Appium,-,-,-,-,-
+Solutions for Data Management,Non-Relational Database (Big Data),ArangoDB,-,-,-,-,-
+Solutions for Application Development and Deployment,Programming Language Server-side and Library,ASP.NET Core MVC,-,-,-,-,-
+Solutions for Infrastructure,Monitoring Solution,AWStats,-,-,-,-,-
+Solutions for Data Management,Database Reporting,Birt,-,-,-,-,-
+Solutions for Application Development and Deployment,Server-side API (GoLang),bleve,-,-,-,-,-
+Solutions for Application Development and Deployment,Client-side Framework,Bootstrap (4.6.0),-,3.4.1,12-04-2021,OWT JAVA PHP,-
+Solutions for Infrastructure,Desktop Operating System,BOSS (8.0 Unnati),-,7.0 LTS,20-05-2021,OWT JAVA PHP,-
+Solutions for Infrastructure,Command Line Interface,Byobu,-,-,-,-,-
+Solutions for Data Analytics,Dashboard,C3.js (0.7.20),-,0.7.18,20-04-2021,OWT JAVA PHP,-
+Solutions for Infrastructure,Storage,Ceph Storage,-,-,-,-,-
+"Solutions for Mobile Application Development,Data Management,GIS,DevOps",Mobile Native (iOS),Cocopods,-,-,-,-,-
+Solutions for Application Development and Deployment,Web Service Framework,Codeigniter,-,-,-,-,-
+Solutions for Application Development and Deployment,Server Side Framework,Codeigniter,-,-,-,-,-
+"Solutions for Source Code Management,Dev Ops & Documentation",Build Tool,Composer,-,-,-,-,-
+"Solutions for Mobile Application Development,Data Management,GIS,DevOps",Mobile Native (iOS),coturn,-,-,-,-,-
+"Solutions for Mobile Application Development,Data Management,GIS,DevOps",Mobile Native (iOS),CryptoSwift,-,-,-,-,-
+Solutions for Application Development and Deployment,Programming Language Client-side,CSS (3),-,"2.1 Revision 1,3",07-01-2022,OWT JAVA PHP,-
+Solutions for Data Analytics,Dashboard,D3.js (6.0.0),-,"5.16.0,5.15.1,5.14.2",09-04-2021,OWT JAVA PHP,-
+"Solutions for Mobile Application Development,Data Management,GIS,DevOps",Mobile Native (iOS),DataCompression,-,-,-,-,-
+Solutions for Data Analytics,Dashboard,DC.js (4.2.7),-,"4.2.6,4.2.5,4.2.4,4.2.3,4.2.1,4.2.0",19-04-2021,OWT JAVA PHP,-
+Solutions for Infrastructure,Server Operating System,Debian,-,-,-,-,-
+Solutions for Infrastructure,Desktop Operating System,Debian,-,-,-,-,-
+Solutions for Application Development and Deployment,Server Side Framework,Django,-,-,-,-,-
+Solutions for Infrastructure,Containers,Docker,-,-,-,-,-
+Solutions for Data Management,Object Relational Mapping,Doctrine,-,-,-,-,-
+"Solutions for Portal,e-Learning,KMS,BI,etc",Digital Archival Repository,Dspace,-,-,-,-,-
+"Solutions for Source Code Management,Dev Ops & Documentation",IDE,Eclipse with extension,-,-,-,-,-
+Solutions for Infrastructure,Instant Messaging,eJabberd,-,-,-,-,-
+Solutions for Data Analytics,Analytics and Search Engine,Elastic Search,-,-,-,-,-
+Solutions for Application Development and Deployment,Server-side API (GoLang),envconfig,-,-,-,-,-
+Solutions for Application Development and Deployment,Server Side Framework,Express.js (4.17.1),-,"4.17.0,4.16.4,4.16.3,4.16.2,4.16.1,4.16.0,4.15.5,4.15.4,4.15.3,4.15.2,4.15.1,4.15.0,4.14.1,4.14.0,4.13.4,4.13.3,4.13.2,4.13.1,4.13.0,4.12.4,4.12.3,4.12.2,4.12.1,4.12.0,4.11.2,4.11.1,4.11.0,4.10.8,4.10.7,4.10.6,4.10.5,4.10.4,4.10.3,4.10.2,4.10.1,4.10.0,4.9.8,4.9.7,4.9.6,4.9.5,4.9.4,4.9.3,4.9.2,4.9.1,4.9.0,4.8.8,4.8.7,4.8.6,4.8.5,4.8.4,4.8.3,4.8.2,4.8.1,4.8.0,4.7.4,4.7.3,4.7.2,4.7.1,4.7.0,4.6.1,4.6.0,4.5.1,4.5.0,4.4.5,4.4.4,4.4.3,4.4.2,4.4.1,4.4.0,4.3.2,4.3.1,4.3.0,4.2.0,4.1.2,4.1.1,4.1.0,4.0.0",30-12-2021,OWT,-
+Solutions for Infrastructure,Desktop Operating System,Fedora (34.0),-,"33.0,32.0",20-05-2021,OWT JAVA PHP,-
+Solutions for Infrastructure,Command Line Interface,Fish,-,-,-,-,-
+"Solutions for Mobile Application Development,Data Management,GIS,DevOps",Mobile Native (iOS),FlexColorPicker,-,-,-,-,-
+Solutions for Data Management,Data Management,fluentd,-,-,-,-,-
+"Solutions for Mobile Application Development,Data Management,GIS,DevOps",Cross-platform,Flutter,-,-,-,-,-
+Solutions for Application Development and Deployment,Server-side API (GoLang),FluuxIO Go XMPP,-,-,-,-,-
+"Solutions for Portal,e-Learning,KMS,BI,etc",Integrated Library Systems,Folio,-,-,-,-,-
+Solutions for Data Management,Database Reporting,FPDF,-,-,-,-,-
+Solutions for GIS,GIS Server,Geo Server,-,-,-,-,-
+Solutions for GIS,GIS Server,GeoServer Printing Module extension,-,-,-,-,-
+Solutions for GIS,GIS Server,Geotools,-,-,-,-,-
+Solutions for GIS,GIS Server,GEOWEBCACHE,-,-,-,-,-
+"Solutions for Source Code Management,Dev Ops & Documentation",Code review,Gerrit (3.3.4),-,"3.1.15,3.3.3,3.3.2,3.3.1,3.2.10,3.2.9,3.2.8,3.2.7,3.2.6,3.2.5,3.2.5.1,3.2.4,3.2.3,3.2.2,3.2.1,3.1.14,3.1.13,3.1.12,3.1.11,3.1.10,3.1.9,3.1.8,3.1.7,3.1.6,3.1.5,3.1.4,3.1.3,3.1.2,3.1.1",20-05-2021,OWT JAVA PHP,-
+"Solutions for Source Code Management,Dev Ops & Documentation",Source Code Control,Git,-,-,-,-,-
+"Solutions for Source Code Management,Dev Ops & Documentation",Source Code Control,GITHub,-,-,-,-,-
+"Solutions for Source Code Management,Dev Ops & Documentation",CI/CD,GITLab,-,-,-,-,-
+"Solutions for Mobile Application Development,Data Management,GIS,DevOps",Cross-platform,Glide,-,-,-,-,-
+Solutions for Application Development and Deployment,Server-side API (GoLang),Go,-,-,-,-,-
+Solutions for Application Development and Deployment,Server-side API (GoLang),Go Chi,-,-,-,-,-
+Solutions for Application Development and Deployment,Server-side API (GoLang),Go Redis,-,-,-,-,-
+Solutions for Application Development and Deployment,Programming Language Server-side and Library,GoLang,-,-,-,-,-
+Solutions for Application Testing,Testing,Gophish,-,-,-,-,-
+Solutions for Application Development and Deployment,Server-side API (GoLang),Gorilla /Web Socket,-,-,-,-,-
+Solutions for Application Development and Deployment,Server-side API (GoLang),Gorilla MUX,-,-,-,-,-
+Solutions for Application Development and Deployment,Server-side API (GoLang),Gorm,-,-,-,-,-
+"Solutions for Source Code Management,Dev Ops & Documentation",Build Tool,Gradle,-,-,-,-,-
+Solutions for GIS,GIS Desktop,GRASS GIS (7.8.5),-,"7.8.3,7.8.2,7.8.1,7.8.0,7.6.1",04-01-2021,OWT JAVA PHP,-
+Solutions for Application Development and Deployment,Server-side API (GoLang),GRPC-Go,-,-,-,-,-
+Solutions for Infrastructure,Command Line Interface,Guake,-,-,-,-,-
+Solutions for GIS,GIS Desktop,GvSIG,-,-,-,-,-
+Solutions for Data Management,Non-Relational Database (Big Data),Hadoop,-,-,-,-,-
+Solutions for Data Management,Object Relational Mapping,Hibernate,-,-,-,-,-
+Solutions for Application Development and Deployment,Server-side API (GoLang),HikariCP,-,-,-,-,-
+Solutions for Application Development and Deployment,Programming Language Client-side,HTML (5.3),-,"5.2,4.0,5.1,4.01",07-01-2022,OWT JAVA PHP,-
+Solutions for Infrastructure,Monitoring Solution,IBM appmetrics,-,-,-,-,-
+"Solutions for Mobile Application Development,Data Management,GIS,DevOps",Cross-platform,Ionic (6.1.5),-,"6.1.4,6.1.3,5.9.3,5.9.2,5.9.1,5.9.0,5.8.5,5.8.4,5.8.3,5.8.2,5.8.1,5.8.0,5.7.0,5.6.14,5.6.13,5.6.12,5.6.11,5.6.10,5.6.9,5.6.8,5.6.7,5.6.6,5.6.5,5.6.4,5.6.3,5.6.2,5.6.1,5.6.0,5.5.5,5.5.4,5.5.3,5.5.2,5.5.1,5.5.0,5.4.4,5.4.3,5.4.2,5.4.1,5.4.0,5.3.5,5.3.4,5.3.3,5.3.2,5.3.1,5.3.0,5.2.3,5.2.2,5.2.1,5.2.0,5.1.1,5.1.0,5.0.7,5.0.6,5.0.5,5.0.4,5.0.3,5.0.2,5.0.1,5.0.0,4.7.3",19-05-2022,OWT,-
+"Solutions for Mobile Application Development,Data Management,GIS,DevOps",Mobile Native (iOS),IQKeyboardManager,-,-,-,-,-
+Solutions for Data Management,Database Reporting,iReport Designer,-,-,-,-,-
+Solutions for Infrastructure,Cloud Platform,Jaeger,-,-,-,-,-
+Solutions for Data Management,Database Reporting,Jasper Report,-,-,-,-,-
+Solutions for GIS,GIS Server,JDBCConfig- Extension to GeoServer,-,-,-,-,-
+"Solutions for Source Code Management,Dev Ops & Documentation",CI/CD,Jenkins (2.289),-,"2.288,2.287",02-08-2021,OWT JAVA PHP,-
+"Solutions for Source Code Management,Dev Ops & Documentation",IDE,Jetbrains- IntelliJ IDEA,-,-,-,-,-
+Solutions for Infrastructure,Video Conference,Jitsi,-,-,-,-,-
+Solutions for Application Testing,Testing,Junit,-,-,-,-,-
+Solutions for Application Development and Deployment,Server-side API (GoLang),JWT-GO,-,-,-,-,-
+"Solutions for Portal,e-Learning,KMS,BI,etc",Business Intelligence (BI),knowage-server,-,-,-,-,-
+"Solutions for Portal,e-Learning,KMS,BI,etc",Integrated Library Systems,Koha,-,-,-,-,-
+Solutions for Application Development and Deployment,Server Side Framework,Kong CE,-,-,-,-,-
+Solutions for Infrastructure,Containers,Kubernetes,-,-,-,-,-
+Solutions for Application Development and Deployment,Server Side Framework,Laravel,-,-,-,-,-
+Solutions for Application Development and Deployment,Web Service Framework,Laravel,-,-,-,-,-
+"Solutions for Source Code Management,Dev Ops & Documentation",Documentation,LibreOffice (6.3.2.2),-,"6.3.2.1,6.2.7.1,6.1.6.3",21-11-2019,OWT JAVA PHP,-
+"Solutions for Portal,e-Learning,KMS,BI,etc",Digital Archival Repository,LogicalDoc CE,-,-,-,-,-
+Solutions for Application Development and Deployment,Server-side API (GoLang),Logrus,-,-,-,-,-
+Solutions for Infrastructure,Malware,Malware Information Sharing Platform,-,-,-,-,-
+Solutions for GIS,GIS Server,Map Server (7.4.4),-,7.4.1,04-01-2021,PHP,-
+Solutions for GIS,GIS Server,MBTILES Community module,-,-,-,-,-
+Solutions for Data Management,In-Memory Database,Memcached (1.6.28),-,-,11-06-2024,OWT JAVA PHP,-
+Solutions for Infrastructure,Cloud Platform,MinIO,-,-,-,-,-
+Solutions for Data Management,Non-Relational Database (Big Data),mongoDB,-,-,-,-,-
+"Solutions for Portal,e-Learning,KMS,BI,etc",E-learning,Moodle,-,-,-,-,-
+Solutions for Data Management,Database Reporting,MPDF,-,-,-,-,-
+Solutions for Infrastructure,Monitoring Solution,Nagios,-,-,-,-,-
+"Solutions for Portal,e-Learning,KMS,BI,etc",Messaging,NATS.io,-,-,-,-,-
+Solutions for GIS,GIS Database,Neo4j CE,-,-,-,-,-
+"Solutions for Source Code Management,Dev Ops & Documentation",IDE,Netbeans,-,-,-,-,-
+Solutions for Infrastructure,Monitoring Solution,Netdata,-,-,-,-,-
+Solutions for Data Management,Data Management,NetLogo,-,-,-,-,-
+Solutions for Application Development and Deployment,Web / HTTP Server,nginx-quic,-,-,-,-,-
+"Solutions for Mobile Application Development,Data Management,GIS,DevOps",Mobile Native (Android),okhttp,-,-,-,-,-
+Solutions for Data Management,Data Management,Open Data Collect,-,-,-,-,-
+Solutions for Infrastructure,Networking Platform/API,Open Network Operating System,-,-,-,-,-
+Solutions for Infrastructure,Networking Platform/API,Open vSwitch,-,-,-,-,-
+Solutions for Infrastructure,Networking Platform/API,OpenDaylight,-,-,-,-,-
+Solutions for Infrastructure,Monitoring Solution,OpenDCIM,-,-,-,-,-
+"Solutions for Portal,e-Learning,KMS,BI,etc",Knowledge Management,OpenKM-CE,-,-,-,-,-
+Solutions for Application Development and Deployment,Client-side API,Openlayers.js,-,-,-,-,-
+Solutions for Infrastructure,Directory Services,OpenLDAP,-,-,-,-,-
+Solutions for Infrastructure,Monitoring Solution,OpenNMS,-,-,-,-,-
+"Solutions for Source Code Management,Dev Ops & Documentation",Documentation,OpenOffice,-,-,-,-,-
+Solutions for Data Analytics,Analytics and Search Engine,OpenSearch,-,-,-,-,-
+Solutions for Infrastructure,Cloud Platform,OpenStack,-,-,-,-,-
+Solutions for Infrastructure,Issue Tracking,OTRS,-,-,-,-,-
+"Solutions for Portal,e-Learning,KMS,BI,etc",Business Intelligence (BI),Pentaho,-,-,-,-,-
+Solutions for Data Management,Database Administration,PgAdmin IV,-,-,-,-,-
+"Solutions for Source Code Management,Dev Ops & Documentation",Build Tool,Phing (2.17.2),-,2.17.1,10-03-2022,PHP,-
+Solutions for Data Management,Database Administration,PhpMyAdmin,-,-,-,-,-
+Solutions for Data Management,Database Administration,phpPgAdmin,-,-,-,-,-
+Solutions for Application Testing,Testing,PHPUnit,-,-,-,-,-
+Solutions for Application Testing,Static Code Analyzer,PMD,-,-,-,-,-
+Solutions for Infrastructure,Containers,podman,-,-,-,-,-
+Solutions for Application Development and Deployment,Client-side Framework,Polymer.js (3.4.1),-,"3.4.0,3.3.1,3.1.0,3.0.5,3.0.4,3.0.3,3.0.2,3.0.1,3.0.0,2.8.0,2.7.2,2.7.1,2.7.0,2.6.1,2.6.0,2.5.0,2.4.0,3.3.0,3.2.0",10-06-2021,OWT JAVA PHP,-
+Solutions for GIS,GIS Database,PostGIS,-,-,-,-,-
+Solutions for Application Development and Deployment,Web Service Framework,PostGREST,-,-,-,-,-
+Solutions for Infrastructure,Virtualisation,proxmox,-,-,-,-,-
+"Solutions for Source Code Management,Dev Ops & Documentation",Build Tool,Puppet,-,-,-,-,-
+Solutions for Application Testing,Testing,Qunit (2.15.0),-,"2.14.1,2.14.0",20-05-2021,OWT JAVA,-
+Solutions for Data Analytics,Analytics and Search Engine,R Language (4.0.5),-,4.0.4,20-04-2021,OWT JAVA PHP,-
+"Solutions for Portal,e-Learning,KMS,BI,etc",Messaging,RabbitMQ,-,-,-,-,-
+Solutions for Data Management,Non-Relational Database (Big Data),RavenDB,-,-,-,-,-
+"Solutions for Mobile Application Development,Data Management,GIS,DevOps",Cross-platform,React Native,-,-,-,-,-
+Solutions for Data Management,Database Administration,Redash,-,-,-,-,-
+Solutions for Data Management,In-Memory Database,Redis (7.2.5),-,"7.2.4,7.0.15,6.2.14",11-06-2024,OWT JAVA PHP,-
+"Solutions for Source Code Management,Dev Ops & Documentation",Application Life Cycle Management / Project Management,Redmine,-,-,-,-,-
+Solutions for Application Development and Deployment,Client-side Framework,Redux,-,-,-,-,-
+Solutions for Application Development and Deployment,Server-side API (GoLang),Resty,-,-,-,-,-
+"Solutions for Mobile Application Development,Data Management,GIS,DevOps",Mobile Native (iOS),ReverseExtension,-,-,-,-,-
+"Solutions for Mobile Application Development,Data Management,GIS,DevOps",Mobile Native (iOS),RNCryptor,-,-,-,-,-
+"Solutions for Mobile Application Development,Data Management,GIS,DevOps",Mobile Native (Android),rootbeer,-,-,-,-,-
+Solutions for Application Testing,Testing,Selenium,-,-,-,-,-
+"Solutions for Mobile Application Development,Data Management,GIS,DevOps",Mobile Native (Android),Smack,-,-,-,-,-
+Solutions for Infrastructure,Command Line Interface,Snowflake SSH,-,-,-,-,-
+"Solutions for Source Code Management,Dev Ops & Documentation",CI/CD,SonarQube,-,-,-,-,-
+Solutions for Data Management,Database Administration,SQLyog,-,-,-,-,-
+"Solutions for Portal,e-Learning,KMS,BI,etc",Portal/CMS,Strapi,-,-,-,-,-
+"Solutions for Mobile Application Development,Data Management,GIS,DevOps",Mobile Native (iOS),SVProgressHUD,-,-,-,-,-
+"Solutions for Mobile Application Development,Data Management,GIS,DevOps",Mobile Native (iOS),Swift 5,-,-,-,-,-
+"Solutions for Mobile Application Development,Data Management,GIS,DevOps",Mobile Native (iOS),SwiftEntryKit,-,-,-,-,-
+"Solutions for Mobile Application Development,Data Management,GIS,DevOps",Mobile Native (iOS),SwiftLinkPreview,-,-,-,-,-
+"Solutions for Mobile Application Development,Data Management,GIS,DevOps",Mobile Native (iOS),SwiftyJSON,-,-,-,-,-
+Solutions for Data Management,Database Replication,SymmetricDS,-,-,-,-,-
+Solutions for Data Management,Database Reporting,TCPDF,-,-,-,-,-
+"Solutions for Mobile Application Development,Data Management,GIS,DevOps",Mobile Native (iOS),TextFieldEffects,-,-,-,-,-
+Solutions for Application Development and Deployment,Server-side API (GoLang),Themis,-,-,-,-,-
+Solutions for GIS,GIS Desktop,TILEMILL map studio,-,-,-,-,-
+"Solutions for Mobile Application Development,Data Management,GIS,DevOps",Mobile Native (iOS),Toolbar,-,-,-,-,-
+"Solutions for Source Code Management,Dev Ops & Documentation",Application Life Cycle Management / Project Management,Tuleap,-,-,-,-,-
+Solutions for Application Development and Deployment,Server-side API,TYK,-,-,-,-,-
+Solutions for Application Development and Deployment,Client-side Framework,Underscore.js,-,-,-,-,-
+"Solutions for Source Code Management,Dev Ops & Documentation",IDE,Visual Studio Community Edition,-,-,-,-,-
+Solutions for Data Management,NewSQL,Vitess,-,-,-,-,-
+"Solutions for Mobile Application Development,Data Management,GIS,DevOps",Mobile Native (Android),volley,-,-,-,-,-
+Solutions for Application Testing,Testing,W3C markup Validator Service (1.4),-,-,19-04-2021,OWT JAVA PHP,-
+"Solutions for Source Code Management,Dev Ops & Documentation",Build Tool,Webpack,-,-,-,-,-
+Solutions for Application Development and Deployment,Client-side API,WebRTC,-,-,-,-,-
+"Solutions for Mobile Application Development,Data Management,GIS,DevOps",Cross-platform,WebRTC,-,-,-,-,-
+Solutions for Application Development and Deployment,Server Side Framework,Whack,-,-,-,-,-
+Solutions for Infrastructure,VPN,wiregaurd,-,-,-,-,-
+Solutions for Data Management,Database Reporting,wkhtmltopdf (0.12.6),-,0.12.5,07-01-2022,JAVA PHP,-
+Solutions for Application Development and Deployment,Server Side Framework,WSO2 CE,-,-,-,-,-
+Solutions for Application Development and Deployment,Programming Language Server-side and Library,XAMPP,-,-,-,-,-
+"Solutions for Mobile Application Development,Data Management,GIS,DevOps",Mobile Native (iOS),XMPPFramework,-,-,-,-,-
+Solutions for Data Management,NewSQL,YugabyteDB,-,-,-,-,-
+Solutions for Infrastructure,Monitoring Solution,Zabbix (Open Source),-,-,-,-,-
+Solutions for Infrastructure,Mail,Zimbra,-,-,-,-,-
+"Solutions for Mobile Application Development,Data Management,GIS,DevOps",Mobile Native (iOS),ZIPFoundation,-,-,-,-,-
+"Solutions for Mobile Application Development,Data Management,GIS,DevOps",Mobile Native (Android),zxing,-,-,-,-,-

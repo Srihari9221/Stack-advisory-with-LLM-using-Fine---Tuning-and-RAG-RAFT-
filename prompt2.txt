@@ -1,0 +1,368 @@
+When given a question, identify the {FunctionalDomain}/{FunctionalArea}/{Licence}/{LastUpdated}/{TechnologyStack}/{Tool} if present in the question and generate SQL Query accordingly.
+else return error
+
+FunctionalDomain:
+        Solutions for Portal,e-Learning,KMS,BI,etc
+        Solutions for Application Development and Deployment
+        Solutions for Source Code Management,Dev Ops & Documentation
+        Solutions for Infrastructure
+        Solutions for GIS
+        Solutions for Data Management
+        Solutions for Mobile Application Development 
+        Solutions for Data Analytics
+        Solutions for Application Testing
+    FunctionalArea:
+
+0                                          Portal/CMS
+1                    Programming Language Client-side
+2                               Client-side Framework
+3                                  Application Server
+4                               Server Side Framework
+5                               Web Service Framework
+6                                  Source Code Editor
+7    Configuration Management for Distributed Systems
+8                                         GIS Desktop
+9                  Non-Relational Database (Big Data)
+10                                Mobile Native (iOS)
+11                            Mobile Native (Android)
+12                                          Messaging
+13                        Analytics and Search Engine
+14                                            Testing
+15                                         Build Tool
+16                                   Video Conference
+17                                Source Code Control
+18                                     Cross-platform
+19       Programming Language Server-side and Library
+20                                Monitoring Solution
+21                                 Database Reporting
+22                           Server-side API (GoLang)
+23                           Desktop Operating System
+24                             Command Line Interface
+25                                          Dashboard
+26                                            Storage
+27                            Server Operating System
+28                                         Containers
+29                          Object Relational Mapping
+30                        Digital Archival Repository
+31                                                IDE
+32                                  Instant Messaging
+33                                    Data Management
+34                         Integrated Library Systems
+35                                         GIS Server
+36                                        Code review
+37                                              CI/CD
+38                                     Cloud Platform
+39                         Business Intelligence (BI)
+40                                      Documentation
+41                                            Malware
+42                                 In-Memory Database
+43                                         E-learning
+44                                       GIS Database
+45                                  Web / HTTP Server
+46                            Networking Platform/API
+47                               Knowledge Management
+48                                    Client-side API
+49                                 Directory Services
+50                                     Issue Tracking
+51                            Database Administration
+52                               Static Code Analyzer
+53                                     Virtualisation
+54  Application Life Cycle Management / Project Management
+55                               Database Replication
+56                                    Server-side API
+57                                             NewSQL
+58                                                VPN
+59                                               Mail
+
+TechnologyStack:
+0    OWT JAVA PHP
+1             OWT
+2            JAVA
+3        OWT  PHP
+4             PHP
+5        OWT JAVA
+6        JAVA PHP
+
+
+License:
+0                              Zope Public License
+1                       MIT,GNU Public License,BSD
+2                                      MIT License
+3                                              MIT
+4                                            GPLv3
+5                                              GPL
+6                GNU Lesser General Public License
+7                                        GNU GPLv2
+8   GNU General Public License, version 2 or later
+9                               Apache License 2.0
+10                                  Apache License
+11                              Apache 2.0 License
+
+Tool:
+Zope (5.20)
+JavaScript (ECMAScript 2021)
+Angular (14.0.5)
+Ember.js (3.28.4)
+jQuery (3.6.0)
+Node.js (21.2.0)
+React.js (18.1.0)
+Ruby on Rails (6.1.3.2)
+Vue.js (2.6.14)
+CakePHP (4.4.2)
+Symfony (6.1.2)
+Visual Studio Code (1.58.2)
+Ansible (2.12.1)
+Joomla (5.1.1)
+Liferay Community Edition (7.4.1)
+Quantum GIS (3.16)
+Wordpress (59)
+Drupal (10.2.7)
+Apache CouchDB (3.1.1)
+Apache Struts (2_1_2)
+Spring (5.3.8)
+Spring Boot (2.6.4)
+.NET Core
+Alamofire
+AlamofireImage
+Android Studio (4.2.1)
+Apache ActiveMQ
+Apache Cassandra
+Apache CXF with Apache Tomcat (4.0.4)
+Apache Drill
+Apache Flink
+Apache Hbase
+Apache Hive
+Apache Jmeter (5.4.3)
+Apache Kafka
+Apache Lucene
+Apache Maven
+Apache Nutch
+Apache OpenMeetings
+Apache Solr
+Apache Spark
+Apache Subversion
+Apache Wicket Framework
+Apache Zeppelin (0.11.1)
+Apache ZooKeeper
+Apache-Cordova (11.0.0)
+Appium
+ArangoDB
+ASP.NET Core MVC
+AWStats
+Birt
+bleve
+Bootstrap (4.6.0)
+BOSS (8.0 Unnati)
+Byobu
+C3.js (0.7.20)
+Ceph Storage
+Cocopods
+Codeigniter
+Composer
+coturn
+CryptoSwift
+CSS (3)
+D3.js (6.0.0)
+DataCompression
+DC.js (4.2.7)
+Debian
+Django
+Docker
+Doctrine
+Dspace
+Eclipse with extension
+eJabberd
+Elastic Search
+envconfig
+Express.js (4.17.1)
+Fedora (34.0)
+Fish
+FlexColorPicker
+fluentd
+Flutter
+FluuxIO Go XMPP
+Folio
+FPDF
+Geo Server
+GeoServer Printing Module extension
+Geotools
+GEOWEBCACHE
+Gerrit (3.3.4)
+Git
+GITHub
+GITLab
+Glide
+Go
+Go Chi
+Go Redis
+GoLang
+Gophish
+Gorilla /Web Socket
+Gorilla MUX
+Gorm
+Gradle
+GRASS GIS (7.8.5)
+GRPC-Go
+Guake
+GvSIG
+Hadoop
+Hibernate
+HikariCP
+HTML (5.3)
+IBM appmetrics
+Ionic (6.1.5)
+IQKeyboardManager
+iReport Designer
+Jaeger
+Jasper Report
+JDBCConfig- Extension to GeoServer
+Jenkins (2.289)
+Jetbrains- IntelliJ IDEA
+Jitsi
+Junit
+JWT-GO
+knowage-server
+Koha
+Kong CE
+Kubernetes
+Laravel
+LibreOffice (6.3.2.2)
+LogicalDoc CE
+Logrus
+Malware Information Sharing Platform
+Map Server (7.4.4)
+MBTILES Community module
+Memcached (1.6.28)
+MinIO
+mongoDB
+Moodle
+MPDF
+Nagios
+NATS.io
+Neo4j CE
+Netbeans
+Netdata
+NetLogo
+nginx-quic
+okhttp
+Open Data Collect
+Open Network Operating System
+Open vSwitch
+OpenDaylight
+OpenDCIM
+OpenKM-CE
+Openlayers.js
+OpenLDAP
+OpenNMS
+OpenOffice
+OpenSearch
+OpenStack
+OTRS
+Pentaho
+PgAdmin IV
+Phing (2.17.2)
+PhpMyAdmin
+phpPgAdmin
+PHPUnit
+PMD
+podman
+Polymer.js (3.4.1)
+PostGIS
+PostGREST
+proxmox
+Puppet
+Qunit (2.15.0)
+R Language (4.0.5)
+RabbitMQ
+RavenDB
+React Native
+Redash
+Redis (7.2.5)
+Redmine
+Redux
+Resty
+ReverseExtension
+RNCryptor
+rootbeer
+Selenium
+Smack
+Snowflake SSH
+SonarQube
+SQLyog
+Strapi
+SVProgressHUD
+Swift 5
+SwiftEntryKit
+SwiftLinkPreview
+SwiftyJSON
+SymmetricDS
+TCPDF
+TextFieldEffects
+Themis
+TILEMILL map studio
+Toolbar
+Tuleap
+TYK
+Underscore.js
+Visual Studio Community Edition
+Vitess
+volley
+W3C markup Validator Service (1.4)
+Webpack
+WebRTC
+Whack
+wiregaurd
+wkhtmltopdf (0.12.6)
+WSO2 CE
+XAMPP
+XMPPFramework
+YugabyteDB
+Zabbix (Open Source)
+Zimbra
+ZIPFoundation
+zxing
+
+LastUpdated:
+It can be any random dates in the format(dd/mm/yyyy) or (dd-mm-yyyy)
+example : 22-10-2004   20/10/2004
+List the tools updated after 22-10-2004
+SELECT * FROM data WHERE LastUpdated > '22-10-2004'
+List the tools updated before 22-10-2004
+SELECT * FROM data WHERE LastUpdated < '22-10-2004'
+
+Example : If a question contains a date then it should be used last in the query
+list the tools updated before 04-07-2024 having MIT license in server side frmwrk
+SELECT * FROM data WHERE License = 'MIT License' AND FunctionalArea = 'Server Side Framework' AND LastUpdated < '04-07-2024'
+
+    Show me the tools for Infrastructure?
+    SELECT * FROM data WHERE FunctionalDomain = 'Solutions for Infrastructure'
+    What tools are used for Mobile Native (iOS) development?
+    SELECT * FROM data WHERE FunctionalArea= 'Mobile Native (ios)'
+    What are the tools in infrastructure in the area VPN?
+    SELECT * FROM data WHERE FunctionalArea ='VPN' AND FunctionalDomain = 'Solutions for Infrastructure'
+    What are the tools in infrastructure in VPN?
+    SELECT * FROM data WHERE FunctionalArea ='VPN' AND FunctionalDomain = 'Solutions for Infrastructure'
+    what are the tools for monitoring solution?
+    SELECT * FROM data WHERE FunctionalArea = 'Monitoring Solution'
+    what are the tools for Video Conference?
+    SELECT * FROM data WHERE FunctionalArea = 'Video Conference'
+    what are the tools for Object Relational Mapping?
+    SELECT * FROM data WHERE FunctionalArea = 'Object Relational Mapping'
+    what are the tools for Digital Archival Repository?
+    SELECT * FROM data WHERE FunctionalArea = 'Digital Archival Repository'
+    What are the tools having MIT License?
+    SELECT * FROM data WHERE License = 'MIT License'
+    What are the tools in portal/CMS updated after 22-11-2020?
+    SELECT * FROM data WHERE FunctionalArea = 'Portal/CMS' AND LastUpdated > '22-11-2020'
+    What are the tools that use OWT JAVA stack?
+    SELECT * FROM data WHERE TechnologyStack = 'OWT JAVA'
+    what are the tools for Business Intelligence?
+    SELECT * FROM data WHERE FunctionalArea = 'Business Intelligence (BI)'
+    what are the tools for Application Life Cycle Management / Project Management?
+    SELECT * FROM data WHERE FunctionalArea = 'Application Life Cycle Management / Project Management'
+    what are the tools for Solutions for Mobile Application Development,Data Management,GIS,DevOps?
+    SELECT * FROM data WHERE FunctionalDomain = 'Solutions for Mobile Application Development,Data Management,GIS,DevOps'
+    In what area should sympony be used
+    SELECT * FROM data WHERE Tool = 'Symfony (6.1.2)'
+    
+    
